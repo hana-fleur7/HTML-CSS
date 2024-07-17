@@ -1,0 +1,21 @@
+@charset"UTF-8";
+
+ul{
+    list-style: none;
+    padding-left: 0
+
+}
+
+li{
+    margin-bottom: 5px;
+    margin-right: 250px;
+    color:white
+}
+
+li.odd{
+    background-color:#007F7F;
+}
+
+li.even{
+    background-color: #00007F;
+}

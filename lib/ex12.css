@@ -1,0 +1,25 @@
+@charset"UTF-8";
+
+header{
+    width: 900px;
+    height: 80px;
+    background-color: rgb(120, 203, 203);
+}
+
+div.section1{
+    width: 280px;
+    height: 500px;
+    background-color: aquamarine;
+}
+
+div.section2{
+    width: 620px;
+    height: 500px;
+    background-color:azure
+}
+
+footer{
+    width: 900px;
+    height: 60px;
+    background-color: darkturquoise;
+}
