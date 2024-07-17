@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+ul{
+ /*リストの・を消す*/
+list-style :none
+
+/*左の余白をなくす*/
+
+}
